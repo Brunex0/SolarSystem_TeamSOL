@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ex1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(282,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(285,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(286,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(314,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(354,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(493,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(495,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(506,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Sistema_Solar\main.cpp(508,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sistema_Solar.vcxproj -> C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Projeto-SistemaSolar\Sistema_Solar\Debug\Sistema_Solar.exe

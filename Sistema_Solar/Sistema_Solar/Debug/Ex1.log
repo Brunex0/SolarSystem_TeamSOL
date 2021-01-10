@@ -1,0 +1,12 @@
+﻿  AulasCG.cpp
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\include\shader_m.h(56,40): warning C4101: 'e': unreferenced local variable
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(178,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(289,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(290,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(294,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(295,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(297,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(298,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Ex1\AulasCG.cpp(307,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ex1.vcxproj -> C:\Users\bruno\Desktop\Universidade_2_ano\CG\Aulas_Praticas\Folha7\Ex5\Debug\Ex1.exe
